@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\bin\Debug\atividade01.exe.config
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\bin\Debug\atividade01.exe
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\bin\Debug\atividade01.pdb
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\obj\Debug\atividade01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\obj\Debug\atividade01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\obj\Debug\atividade01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\obj\Debug\atividade01.exe
+C:\Users\Aluno\Documents\Bruno Leonardo\atividade01\obj\Debug\atividade01.pdb
